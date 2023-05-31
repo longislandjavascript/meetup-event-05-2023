@@ -1,0 +1,30 @@
+{
+  "name": "oop-presentation",
+  "version": "1.0.0",
+  "description": "[![LIJS Logo](https://raw.githubusercontent.com/longislandjavascript/longislandjavascript/main/public/logo.png)](https://www.lijs.org)",
+  "main": "./code",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "composition": "ts-node ./code/composition.ts",
+    "inheritance": "ts-node ./code/inheritance.ts",
+    "polymorphism": "ts-node ./code/polymorphism.ts",
+    "encapsulation": "ts-node ./code/encapsulation.ts",
+    "abstraction": "ts-node ./code/abstraction.ts",
+    "basics": "ts-node ./code/basics.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/longislandjavascript/meetup-event-05-2023.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/longislandjavascript/meetup-event-05-2023/issues"
+  },
+  "homepage": "https://github.com/longislandjavascript/meetup-event-05-2023#readme",
+  "devDependencies": {
+    "ts-node": "^10.9.1",
+    "typescript": "^5.0.4"
+  }
+}

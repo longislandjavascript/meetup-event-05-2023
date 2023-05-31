@@ -1,8 +1,8 @@
 [![LIJS Logo](https://raw.githubusercontent.com/longislandjavascript/longislandjavascript/main/public/logo.png)](https://www.lijs.org)
 
-# Meetup Event: <MONTH YYYY>
+# Meetup Event: May 2023
 
-### <Event Title>
+### Object-Oriented Programming in TypeScript
 
 [View Event on Meetup](https://www.meetup.com/long-island-javascript/events/hgccdtyfchbpc/)
 
